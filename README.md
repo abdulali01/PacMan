@@ -1,4 +1,4 @@
-# pacman
+# PacMan
 Free form of pacman going from right to left and reverse.
 
 Overview:  This is first program that mimic the classic game of Pacman.  Pacman is triggred with a click of a mouse.  It will continue to run until you can close your browser or referesh it.
