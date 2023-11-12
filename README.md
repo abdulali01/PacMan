@@ -10,6 +10,7 @@ Language Used:
 Iteration 1 - 9/09/2023
   HTML and Javascript
 
+
 HTML:
 Body contains an img tag.
     ID, SRC, width, onclick, & style.
@@ -29,5 +30,12 @@ Javascript:
     in a very simple way to validate and check if the position + image widht is > Windows Width.  If it is, direction will be 1.  1 means going from right to left.
     If the pos is < 0 => direction is 0.  Moving from right to left.  
     
-    
+  Future Iteration - Q1 2024
+  expansion of HTML and Javascription code to include flexiblity to interaction from the user
+    Moving forward and backward
+    Moving up and down
+    still have the ability to run and auto detect end of screen.
+
+  Future Iterration - Q2 - 2024
+    obsticles where pacman need to avoid the obsticles like balls, arrows, bumps etc.
     
