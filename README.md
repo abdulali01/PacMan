@@ -6,8 +6,9 @@ Overview:  This is first program that mimic the classic game of Pacman.  Pacman 
 Technical Spec:
 
 Language Used:
+1. Pacing pacman from left to right using Javascript build into HTML.
 
-Iteration 1 - 9/09/2023
+  iteration 1 - 9/09/2023
   HTML and Javascript
 
 
