@@ -4,6 +4,7 @@
 Overview:  This is first program that mimic the classic game of Pacman.  Pacman is triggred once a page is uploaded.  It will continue to run until you can close your browser or referesh it.
 
 Technical Spec:
+  Simple start to showcase capabilities of HTML, CSS, Javascript.
 
 Language Used:
 1. Pacing pacman from left to right using Javascript build into HTML.
