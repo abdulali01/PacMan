@@ -16,7 +16,7 @@ Language Used:
 
 How to access the repo:
 1. To execute it in your current browser <a href="https://abdulali01.github.io/PacMan/"> PacMan</a>
-2. Locally down the files and review the information by visiting <a href="https://github.com/abdulali01/"> Github HomePage</a> -> Go to repositoriess
+2. Locally down the files and review the information by visiting <a href="https://github.com/abdulali01/"> Github HomePage</a> -> Go to repositories.
 
 
 HTML:
