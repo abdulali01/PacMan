@@ -10,7 +10,13 @@ Language Used:
 1. Pacing pacman from left to right using Javascript build into HTML.
 
   iteration 1 - 9/09/2023
-  HTML and Javascript
+  HTML and Javascript, CSS
+
+  _____________________________________________________________
+
+How to access the repo:
+1. To execute it in your current browser <a href="https://abdulali01.github.io/PacMan/"> PacMan</a>
+2. Locally down the files and review the information by visiting <a href="https://github.com/abdulali01/"> Github HomePage</a> -> Go to repositoriess
 
 
 HTML:
